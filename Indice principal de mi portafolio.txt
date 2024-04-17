@@ -1,0 +1,71 @@
+
+<html> 
+<head> 
+<title> PORTAFOLIOO </title> 
+</head> 
+<body background="https://i.pinimg.com/236x/ec/80/b4/ec80b4cc039804b8490b62858c6b2fdf.jpg" > 
+
+
+<h2> <font  size="8" color="red" face="Trebuchet MS"> <i> <center>  PROYECTOS REALIZADOS CON HTML  </center>  </i> </font> </h2>
+<br> 
+<br> 
+<br> 
+<table border="7"> 
+	<tr> <Primera fila> 
+<td>  <a href="Ejerciciocompu.html">  <font color="black" face="Courier" size="7"> <b>  Lista De Contactos </b> </font> </a> </td>
+ <td> 
+<img src="Fotos/contactos.jpg" align="left" width="430" height="330" 
+alt="contactos"> </td> 
+</tr>
+
+ <tr> <Segunda fila>  
+ 	<td>  <a href="cata.html">  <font color="black" face="Courier" size="7"> <b> Catalogo de ropa <br>  deportiva </b> </font> </a> </td> 
+ 
+<td>
+<img src="Fotos/nikeee.jpg" align="left" width="430" height="370"
+alt="Pantalon">  
+ </td> 
+</tr> 
+</table> 
+<h2> <font  size="7" color="red" face="Trebuchet MS"> <i> <center>  Documentos realizados con diferentes <br> tipos de listas en HTML  </center>  </i> </font> </h2>
+
+<table border="7"> 
+	<tr> <Primera fila> 
+<td>  <a href="alfa.html">  <font color="black" face="Courier" size="8"> <b>  Nombres Alfabeticos </b> </font> </a> </td>
+ <td> 
+<img src="Fotos/ticoss.jpg" align="left" width="470" height="330" 
+alt="contactos"> </td> 
+</tr>
+
+ <tr> <Segunda fila>  
+ 	<td>  <a href="herbivoros.html">  <font color="black" face="Courier" size="7"> <b> Animales Herbivoros </b> </font> </a> </td> 
+ 
+<td>
+<img src="Fotos/voross.jpg" align="left" width="470" height="330"
+alt="Pantalon">  
+ </td> 
+</tr> 
+ <tr> <Tercera fila>  
+ 	<td> <a href="Tienda.html">  <font color="black" face="Courier" size="9%"> <b> Tienda <br> "El Chinooo" </b> </font> </a> </td> 
+
+<td>
+<img src="Fotos/tiendaa.jpg" align="left" width="470" height="330"
+alt="Pantalon">  
+ </td> 
+</tr>
+</table> 
+<h2> <font  size="7" color="red" face="Trebuchet MS"> <i> <center>  Pagina web de <br> comida mexicana </center>  </i> </font> </h2>
+
+<table border="7"> 
+	<tr> <Primera fila> 
+<td>  <a href="Comidas Mexicanas.html">  <font color="black" face="Courier" size="7"> <b>  Comidas Mexicanas </b> </font> </a> </td>
+ <td> 
+<img src="Fotos/menuu.jpg" align="left" width="470" height="330" 
+alt="contactos"> </td> 
+
+</table> 
+
+
+
+</body> 
+</html>  
